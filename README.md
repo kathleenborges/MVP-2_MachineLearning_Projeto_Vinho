@@ -39,7 +39,7 @@ Abra o terminal na pasta raiz do projeto:
 cd api
 
 - Criar um ambiente virtual (caso não tenha)
-python3 -m venv venv
+python3.12 -m venv venv
 
 - Ativar o ambiente virtual
 # No Mac/Linux:
